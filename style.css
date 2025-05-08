@@ -1,0 +1,13 @@
+.PageHead.Head {
+    color: green;
+}
+.Recipe-List {
+    color:blueviolet;
+    background-color: bisque;
+    height: auto;
+    width: auto;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
